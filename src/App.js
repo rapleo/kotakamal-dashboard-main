@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          menu baru ngab!
+          menu baru ngab
         </p>
       </header>
     </div>
